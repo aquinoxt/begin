@@ -1,0 +1,10 @@
+ul {
+    /* alterar para circulo antes de cada <li> da lista não ordenada */
+    list-style-type: circle; 
+    /* também podemos usar a lsit-style: circle; */
+}
+
+ol {
+    /* alterar para uma sequência alfabética antes da cada <li> da lista ordenada */
+    list-style: upper-alpha;
+}
